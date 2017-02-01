@@ -6,7 +6,7 @@
 var client = new FamilySearch({
   
   // A client ID for sandbox is obtained by registering with the FamilySearch developer's website
-  client_id: 'a02j0000008gOCiAAM',
+  client_id: 'a02j000000LrqV5AAJ',
   
   // When using the the popup method of authentication, the redirect uri doesn't need to be a
   // page that actually exists, it just needs to be a page on the same domain.
