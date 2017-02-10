@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/FamilySearch/javascript-sdk-sample-app/issues"
   },
-  "homepage": https://github.com/FamilySearch/javascript-sdk-sample-app",
+  "homepage": "https://github.com/FamilySearch/javascript-sdk-sample-app",
   "dependencies": {
     "ejs": "2.3.3",
     "express": "4.13.3"
